@@ -1,3 +1,5 @@
+# Project version
+Current version: v1.2.2
 # Heads
 
 # Head h1
@@ -14,9 +16,9 @@ Underline 2
 ===========
 # Emphasis formats
 
-- formato letra *italica* de la primer forma
+- *italic* letter format of the first form
 
-- formato letra _italica_ de la segunda forma
+- second form _italic_ letter format
 
 - format **bold or strong**
 - format ____bold or strong____
